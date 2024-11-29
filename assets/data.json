@@ -1,0 +1,48 @@
+{
+    "request": "https://api.openweathermap.org/data/2.5/weather?lat=12.9791549&lon=80.1991722&units=metric&appid=aa9f6951dfb53dd827bc55796360bc95",
+    "data": {
+        "coord": {
+            "lon": 80.1992,
+            "lat": 12.9792
+        },
+        "weather": [
+            {
+                "id": 721,
+                "main": "Haze",
+                "description": "haze",
+                "icon": "50n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 30.72,
+            "feels_like": 36.57,
+            "temp_min": 30.03,
+            "temp_max": 31.16,
+            "pressure": 1008,
+            "humidity": 69,
+            "sea_level": 1008,
+            "grnd_level": 1007
+        },
+        "visibility": 5000,
+        "wind": {
+            "speed": 5.14,
+            "deg": 260
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1724522804,
+        "sys": {
+            "type": 1,
+            "id": 9218,
+            "country": "IN",
+            "sunrise": 1724459279,
+            "sunset": 1724504132
+        },
+        "timezone": 19800,
+        "id": 1465625,
+        "name": "Palavantangai",
+        "cod": 200
+    }
+}
